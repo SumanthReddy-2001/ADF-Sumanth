@@ -1,0 +1,9 @@
+{
+	"name": "adf-sumanth",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "73aad299-3a62-4165-bc43-ef3992ac784d",
+		"tenantId": "74488e4e-b546-4759-8e1c-c034c1d25c93"
+	}
+}
